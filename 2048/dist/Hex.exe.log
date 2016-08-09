@@ -1,0 +1,39 @@
+Traceback (most recent call last):
+  File "Hex.py", line 4, in <module>
+  File "PyQt4\QtCore.pyc", line 12, in <module>
+  File "PyQt4\QtCore.pyc", line 10, in __load
+ImportError: No module named sip
+Traceback (most recent call last):
+  File "Hex.py", line 4, in <module>
+  File "PyQt4\QtCore.pyc", line 12, in <module>
+  File "PyQt4\QtCore.pyc", line 10, in __load
+ImportError: No module named sip
+Traceback (most recent call last):
+  File "Hex.py", line 4, in <module>
+  File "PyQt4\QtCore.pyc", line 12, in <module>
+  File "PyQt4\QtCore.pyc", line 10, in __load
+ImportError: No module named sip
+Traceback (most recent call last):
+  File "Hex.py", line 4, in <module>
+  File "PyQt4\QtCore.pyc", line 12, in <module>
+  File "PyQt4\QtCore.pyc", line 10, in __load
+ImportError: No module named sip
+Traceback (most recent call last):
+  File "Hex.py", line 4, in <module>
+  File "PyQt4\QtCore.pyc", line 12, in <module>
+  File "PyQt4\QtCore.pyc", line 10, in __load
+ImportError: No module named sip
+Traceback (most recent call last):
+  File "Hex.py", line 4, in <module>
+  File "PyQt4\QtCore.pyc", line 12, in <module>
+  File "PyQt4\QtCore.pyc", line 10, in __load
+ImportError: No module named sip
+Traceback (most recent call last):
+  File "Hex.py", line 1786, in <module>
+  File "Hex.py", line 1574, in __init__
+  File "PyQt4\uic\__init__.pyc", line 238, in loadUi
+  File "PyQt4\uic\Loader\loader.pyc", line 71, in loadUi
+  File "PyQt4\uic\uiparser.pyc", line 984, in parse
+  File "xml\etree\ElementTree.pyc", line 1182, in parse
+  File "xml\etree\ElementTree.pyc", line 647, in parse
+IOError: [Errno 2] No such file or directory: 'graf.ui'
